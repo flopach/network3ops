@@ -1,5 +1,12 @@
 # Network Management: 3 operational Approaches
 
+**Important Links:**
+
+* Starting Point - Cisco DevNet Portal: http://developer.cisco.com
+* Get access to Cisco hardware for free - Cisco Sandboxes: http://devnetsandbox.cisco.com
+* johann Network Monitoring Tool only with Device APIs: https://github.com/flopach/johann-network-device-monitoring 
+* Explore YANG models with Cisco YANG Suite: https://github.com/CiscoDevNet/yangsuite/
+
 ## Python Intro
 
 Open text editor, save as `hello-world-py`:

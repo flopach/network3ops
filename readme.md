@@ -95,7 +95,11 @@ Toolsets:
 
 ### RESTCONF - Get data from the IOS XE RESTCONF interface
 
-1. Use Postman or the Python scripts `restconf-get-all-interfaces.py` or `restconf-getting-started.py` to get information directly from the device.
+1. Use the Python scripts:
+
+* `restconf-getting-started.py`
+* `restconf-get-all-interfaces.py`
+* `restconf-create-loopback.py` (does not work with always-on sandbox, needs to be reserved)
 
 **IOS XE (always on sandbox)**:
 
